@@ -1,3 +1,23 @@
-# entryDate
+# sumIssuesPublicGithub
 
-Describes the date when a contributor joined the DAO
+Describes of sumIssuesPublicGithub
+
+# numFollowersGithub
+
+Describes of numFollowersGithub
+
+# sumStarsPublicGithub
+
+Describes of sumStarsPublicGithub
+
+# sumCommitsPublicGithub
+
+Describes of sumCommitsPublicGithub
+
+# sumPRsPublicGithub
+
+Describes of sumPRsPublicGithub
+
+# sumContributedToPublicGithub
+
+Describes of sumContributedToPublicGithub
